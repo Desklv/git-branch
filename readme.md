@@ -2,6 +2,9 @@
 1. git init
 2.git add
 3.git commit -m "mensaje"
+4.git push
+
+
  # PASOS PARA UN BRANCH
  1.git branch  -- lista de ramas
  2. git branch nombre-rama -- crea una rama
